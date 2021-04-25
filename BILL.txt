@@ -1,0 +1,9 @@
+Sr No.	Product	Price	Quantity	Final Price
+
+1	pant	100.0	20	2000.0
+
+
+TOTAL BILL IS 2000.0
+
+Thanks for Visiting !!! Happy Shopping
+
